@@ -1,9 +1,6 @@
 # CPU Utilization Collector for Network Devices
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/cpu-utilization-collector)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/cpu-utilization-collector)
 
 ---
 
